@@ -6,7 +6,7 @@ permalink: /
 
 ## Top Skills
 
-Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
+| Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git |
 
 ## Languages
 
