@@ -6,7 +6,14 @@ permalink: /
 
 ## Top Skills
 
-Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
+- Kubernetes
+- PlantUML
+- Google Cloud
+- C#
+- Agile
+- Delphi
+- SQL
+- Git
 
 ## Languages
 
@@ -21,7 +28,10 @@ Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
 ## Experience
 
 ### Worldline (GoPay) | Platform Architect | Brussels, Belgium
-**[docs.direct.worldline-solutions.com](https://docs.direct.worldline-solutions.com)** | *April 2014 – Present*
+
+[Worldline GoPay](https://docs.direct.worldline-solutions.com)
+
+*April 2014 – Present*
 
 - **Backend Application Developer / Analyst Programmer** (2014-2019)
   - developing and maintaining backend services in **Delphi** and **C#**, including:
@@ -52,7 +62,10 @@ Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
 ---
 
 ### EORTC | Analyst Programmer | Brussels, Belgium
-**[www.eortc.org](https://www.eortc.org/)** | *September 2009 – April 2014*
+
+[European Organization for Research and Treatment of Cancer](https://www.eortc.org/)
+
+*September 2009 – April 2014*
 
 - Developing applications for **Data Management** and **Pharmacovigilance** in oncology clinical trials
 - **Project Management & Development**:
@@ -63,6 +76,9 @@ Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
 
 ---
 ### CSE-Semaphore | Interim – Quality Control Engineer | Waterloo, Belgium
+
+[Remote Terminal Unit (RTU) Products](https://www.servelectechnologies.com/)
+
 *September 2008 – July 2009*
 
 - Performing **quality control** of **RTU electronic boards** (digital/analog I/Os, communication interfaces: Ethernet, GSM, RS232, etc.)
@@ -73,6 +89,9 @@ Kubernetes | PlantUML | Google Cloud | C# | Agile | Delphi | SQL | Git
 
 ---
 ### Avaya | Interim – Application Developer | Waterloo, Belgium
+
+[Enterprise communication systems](https://www.avaya.com)
+
 *July 2007 – July 2008*
 
 - Analyzing, designing, and coding an application for tracking **maintenance and user support contracts**
